@@ -11,6 +11,7 @@ Reading Notes of Technical Communication!
    :caption: Chapter One
 
    Chapter_One.rst
+   ran.rst
 
 
 
