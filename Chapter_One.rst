@@ -83,4 +83,4 @@ Technical communication is challenging because people are complicated, and colla
 6. How Communication Skills and Qualities Affect Your Career
 ---------------------------------------------------------------
 
-.. image:: ../EmployersResearch.png
+.. image:: EmployersResearch.png
